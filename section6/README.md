@@ -1,7 +1,5 @@
-@todo: can call readFromFile
+Points to check:
 
-@todo: readFromFile returns correct string
-
-@todo: readFromFile throws exception when file does not exist
-
-test
+1. Can call readFromFile
+2. readFromFile returns correct string
+3. readFromFile throws exception when file does not exist
